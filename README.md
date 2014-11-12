@@ -3,7 +3,7 @@ Peridot List Reporter
 
 [![Build Status](https://travis-ci.org/peridot-php/peridot-list-reporter.png)](https://travis-ci.org/peridot-php/peridot-list-reporter) [![HHVM Status](http://hhvm.h4cc.de/badge/peridot-php/peridot-list-reporter.svg)](http://hhvm.h4cc.de/package/peridot-php/peridot-list-reporter)
 
-A simple dot matrix reporter for the Peridot testing framework.
+A simple list reporter for the Peridot testing framework.
 
 ![Peridot list reporter](https://raw.github.com/peridot-php/peridot-list-reporter/master/output.png "Peridot list reporter in action")
 

@@ -1,0 +1,23 @@
+{
+    "name": "peridot-php/peridot-list-reporter",
+    "description": "A list reporter for the Peridot testing framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Scaturro",
+            "email": "scaturrob@gmail.com"
+        }
+    ],
+    "require": {
+        "peridot-php/peridot": "~1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Peridot\\Reporter\\List\\": "src/"
+        }
+    },
+    "require-dev": {
+        "peridot-php/peridot-dot-reporter": "~1.0",
+        "peridot-php/peridot-watcher-plugin": "~1.3"
+    }
+}
